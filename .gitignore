@@ -156,3 +156,5 @@ crashlytics-build.properties
 fabric.properties
 .gitignore
 .idea/
+!/.ipynb_checkpoints/
+/.ipynb_checkpoints/
